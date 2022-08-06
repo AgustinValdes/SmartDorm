@@ -1,6 +1,6 @@
 # Smart Dorm
 
-For our final project in 6.08, we have designed and implemented three modules that serve to ‘smartify’ students’ dorm rooms. In addition to servicing the IoT and electronics side, we have also tried to expand our reach by incorporating dynamic mechanisms, a mobile app for user interfacing, and 3D printing enclosures in an attempt to replicate what a final product on the market could look like.
+For our final project in 6.08 (Intro. to EECS via Interconnected Embedded Systems), we have designed and implemented three modules that serve to ‘smartify’ students’ dorm rooms. In addition to servicing the IoT and electronics side, we have also tried to expand our reach by incorporating dynamic mechanisms, a mobile app for user interfacing, and 3D printing enclosures in an attempt to replicate what a final product on the market could look like.
 
 The first module we introduce in this write-up is the knock-detection and camera module. When a person knocks on a user’s door, a picture of them is taken, processed onto the server, and is sent to the app. We illustrate in the demo video one of many scenarios where this could be useful.
 
