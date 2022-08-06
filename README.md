@@ -12,3 +12,5 @@ Last but not least, the app is vital in bringing all the modules together under 
 
 The demo to our final project is located here: https://www.youtube.com/watch?v=HCM5IS-3c3I
 A more detailed video overview can be found here: https://youtu.be/nmccy_EOj2g
+
+![knock-camera thumbnail](https://user-images.githubusercontent.com/34201673/183227110-c69e910d-dc45-4b12-be50-52dd2d439404.jpg)
