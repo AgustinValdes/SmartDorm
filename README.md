@@ -11,3 +11,4 @@ Our last module is the one responsible for toggling both the light switch in a r
 Last but not least, the app is vital in bringing all the modules together under one interface. Written in ReactNative, the app is meant to make the smart dorm modules an extension of a user’s pre-existing IoT environments by making it accessible on their phones.
 
 The demo to our final project is located here: https://www.youtube.com/watch?v=HCM5IS-3c3I
+A more detailed video overview can be found here: https://youtu.be/nmccy_EOj2g
